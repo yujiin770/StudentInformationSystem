@@ -1,0 +1,392 @@
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\PoliceCaseRecordSystem V2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .2\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV3 .4\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.5\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.5\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV4.5\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.AddRecord.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.AddRecords2.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.AddRecords3.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ArchiveFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.FrmViewID.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ID.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ReportsFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.SettingFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\LoginForm.ViewCaseFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV5 .2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationV6\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.2\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.3\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV6.7\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV7\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine-SPP\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\Guna.UI.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\Guna.UI2.dll
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.pdb
