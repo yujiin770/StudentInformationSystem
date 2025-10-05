@@ -51,8 +51,8 @@ Partial Class LoginForm
         Me.GunaLabel9 = New Guna.UI.WinForms.GunaLabel()
         Me.BtnYes = New Guna.UI.WinForms.GunaButton()
         Me.GunaLabel7 = New Guna.UI.WinForms.GunaLabel()
-        Me.GunaTransition2 = New Guna.UI.WinForms.GunaTransition(Me.components)
         Me.GunaPictureBox1 = New Guna.UI.WinForms.GunaPictureBox()
+        Me.GunaTransition2 = New Guna.UI.WinForms.GunaTransition(Me.components)
         Me.Panel1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.ExitPanel.SuspendLayout()
@@ -551,27 +551,6 @@ Partial Class LoginForm
         Me.GunaLabel7.Text = "Are you sure"
         Me.GunaLabel7.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
-        'GunaTransition2
-        '
-        Me.GunaTransition2.AnimationType = Guna.UI.Animation.AnimationType.Transparent
-        Me.GunaTransition2.Cursor = Nothing
-        Animation2.AnimateOnlyDifferences = True
-        Animation2.BlindCoeff = CType(resources.GetObject("Animation2.BlindCoeff"), System.Drawing.PointF)
-        Animation2.LeafCoeff = 0.0!
-        Animation2.MaxTime = 1.0!
-        Animation2.MinTime = 0.0!
-        Animation2.MosaicCoeff = CType(resources.GetObject("Animation2.MosaicCoeff"), System.Drawing.PointF)
-        Animation2.MosaicShift = CType(resources.GetObject("Animation2.MosaicShift"), System.Drawing.PointF)
-        Animation2.MosaicSize = 0
-        Animation2.Padding = New System.Windows.Forms.Padding(0, 0, 0, 0)
-        Animation2.RotateCoeff = 0.0!
-        Animation2.RotateLimit = 0.0!
-        Animation2.ScaleCoeff = CType(resources.GetObject("Animation2.ScaleCoeff"), System.Drawing.PointF)
-        Animation2.SlideCoeff = CType(resources.GetObject("Animation2.SlideCoeff"), System.Drawing.PointF)
-        Animation2.TimeCoeff = 0.0!
-        Animation2.TransparencyCoeff = 1.0!
-        Me.GunaTransition2.DefaultAnimation = Animation2
-        '
         'GunaPictureBox1
         '
         Me.GunaPictureBox1.BackColor = System.Drawing.Color.Transparent
@@ -586,6 +565,27 @@ Partial Class LoginForm
         Me.GunaPictureBox1.TabIndex = 43
         Me.GunaPictureBox1.TabStop = False
         Me.GunaPictureBox1.Visible = False
+        '
+        'GunaTransition2
+        '
+        Me.GunaTransition2.AnimationType = Guna.UI.Animation.AnimationType.Transparent
+        Me.GunaTransition2.Cursor = Nothing
+        Animation2.AnimateOnlyDifferences = True
+        Animation2.BlindCoeff = CType(resources.GetObject("Animation2.BlindCoeff"), System.Drawing.PointF)
+        Animation2.LeafCoeff = 0.0!
+        Animation2.MaxTime = 1.0!
+        Animation2.MinTime = 0.0!
+        Animation2.MosaicCoeff = CType(resources.GetObject("Animation2.MosaicCoeff"), System.Drawing.PointF)
+        Animation2.MosaicShift = CType(resources.GetObject("Animation2.MosaicShift"), System.Drawing.PointF)
+        Animation2.MosaicSize = 0
+        Animation2.Padding = New System.Windows.Forms.Padding(0)
+        Animation2.RotateCoeff = 0.0!
+        Animation2.RotateLimit = 0.0!
+        Animation2.ScaleCoeff = CType(resources.GetObject("Animation2.ScaleCoeff"), System.Drawing.PointF)
+        Animation2.SlideCoeff = CType(resources.GetObject("Animation2.SlideCoeff"), System.Drawing.PointF)
+        Animation2.TimeCoeff = 0.0!
+        Animation2.TransparencyCoeff = 1.0!
+        Me.GunaTransition2.DefaultAnimation = Animation2
         '
         'LoginForm
         '

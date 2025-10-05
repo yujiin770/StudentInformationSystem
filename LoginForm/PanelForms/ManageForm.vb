@@ -382,4 +382,8 @@ Public Class ManageForm
         MainPanel2.Hide()
         MainPanel.Show()
     End Sub
+
+    Private Sub MainPanel2_Paint_1(ByVal sender As System.Object, ByVal e As System.Windows.Forms.PaintEventArgs) Handles MainPanel2.Paint
+
+    End Sub
 End Class

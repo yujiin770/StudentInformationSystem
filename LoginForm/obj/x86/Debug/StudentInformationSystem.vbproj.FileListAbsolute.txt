@@ -390,3 +390,17 @@ C:\Users\Ellaine Almira\OneDrive\Desktop\StudentInformationSystem\StudentInforma
 C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.exe
 C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.xml
 C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\bin\Debug\LoginForm.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbprojResolveAssemblyReference.cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.AdminForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.background.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.SplashScreen.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.AddRecordFrm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.ManageForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\LoginForm.ViewInformation.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\3RD YR PROJECTS\StudentInformationSystem\StudentInformationV8.4\LoginForm\obj\x86\Debug\StudentInformationSystem.vbproj.GenerateResource.Cache

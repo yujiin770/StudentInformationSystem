@@ -51,7 +51,7 @@ Public Class AddRecordFrm
         End If
 
         If CboCourse.SelectedIndex = -1 Then
-            MessageBox.Show("Please select a Course.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
+            MessageBox.Show("Please select a Courses.", "Validation Error", MessageBoxButtons.OK, MessageBoxIcon.Error)
             CboCourse.Focus()
             Return
         End If
