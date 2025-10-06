@@ -56,7 +56,7 @@
 
             txtAge.Text = age.ToString()
         Catch ex As Exception
-            txtAge.Text = ""
+            txtAge.Text = Nothing
         End Try
     End Sub
 
